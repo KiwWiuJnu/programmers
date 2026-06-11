@@ -1,7 +1,7 @@
 # 📝 [Programmers / Level 2] 프로세스
 
-> **분류**: 큐(Queue), 해시/정렬(Hash/Sort)
-> **문제 링크**: https://school.programmers.co.kr/learn/courses/30/lessons/42587
+> **분류**: 큐(Queue), 해시/정렬(Hash/Sort)  
+> **문제 링크**: [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)
 
 ## 1. 문제 파악 및 제한 조건
 * **핵심 목표**: 특정 우선순위 규칙에 따라 프로세스가 실행되는 운영체제에서, 내가 요청한 특정 위치(`location`)의 프로세스가 몇 번째로 실행되는지 구하기.

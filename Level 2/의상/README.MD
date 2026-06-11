@@ -1,7 +1,7 @@
 # 📝 [Programmers / Level 2] 의상
 
 > **분류**: 해시(Hash), 수학(Math)  
-> **문제 링크**: https://school.programmers.co.kr/learn/courses/30/lessons/42578
+> **문제 링크**: [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
 
 ## 1. 문제 파악 및 제한 조건
 * **핵심 목표**: 스파이가 가진 의상들이 주어졌을 때, 종류별로 조합하여 입을 수 있는 서로 다른 옷 조합의 수를 구하기. (단, 최소 한 개의 의상은 무조건 입어야 함)

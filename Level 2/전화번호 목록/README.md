@@ -1,7 +1,7 @@
 # 📝 [Programmers / Level 2] 전화번호 목록
 
 > **분류**: 해시(Hash), 정렬(Sort)  
-> **문제 링크**: https://school.programmers.co.kr/learn/courses/30/lessons/42577 
+> **문제 링크**: [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
 
 ## 1. 문제 파악 및 제한 조건
 * **핵심 목표**: 전화번호부에 적힌 전화번호 중, 한 번호가 다른 번호의 접두어인 경우가 있는지 확인하기.
